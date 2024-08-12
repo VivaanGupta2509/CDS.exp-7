@@ -213,6 +213,8 @@ int main() {
 }
 ```
 
+
+
 ### Strings 
 ```
 #include <iostream>
@@ -272,3 +274,12 @@ int main(){
 }
 ```
 ## Output - 
+### strings
+<img width="824" alt="Screenshot 2024-08-12 at 3 26 25 PM" src="https://github.com/user-attachments/assets/63db5c15-aa71-4a55-9485-9e3f66400e6e">
+### arrays 
+<img width="863" alt="Screenshot 2024-08-12 at 3 46 00 PM" src="https://github.com/user-attachments/assets/5bcabf8f-1391-41ff-8f27-282ef8513c3b">
+
+## Conclusion - 
+Arrays are a basic data structure in programming, storing a fixed number of elements of the same type in contiguous memory. 
+They offer efficient storage and access but lack the flexibility of dynamic structures.
+The string class simplifies text handling. You can initialize with double quotes, concatenate with + , and access character
